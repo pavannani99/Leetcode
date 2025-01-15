@@ -1,6 +1,7 @@
 class Solution {
 public:
     int f(int x,vector<int>& nums){
+        //just uka function tiskonuin store duplicates
 int count=0;
 for(int i=0;i<x;i++){
     if(nums[i]==nums[x]){
