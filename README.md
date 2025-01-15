@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pavannani99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pavannani99/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pavannani99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pavannani99/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Memoization
 |  |
 | ------- |
