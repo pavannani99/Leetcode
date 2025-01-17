@@ -6,8 +6,9 @@ class Solution:
         #         return True
         # return False
         num_set=set()
-        for n in nums:
-            if n in num_set:
-                return True
-            num_set.add(n)
-        return False
+        # for n in nums:
+        #     if n in num_set:
+        #         return True
+        #     num_set.add(n)
+        # return False
+        return True if len(set(nums))<len(nums) else  False
