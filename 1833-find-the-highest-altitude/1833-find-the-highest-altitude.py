@@ -7,12 +7,10 @@ class Solution:
         #         self[i]=self[i-1]-gain[i]
         #         gain.sort()
         # return gain[n-1]
-        current_altitude = 0
-        max_altitude = 0
-        
+        a=0
+        b=0
         for g in gain:
-            current_altitude += g
-            max_altitude = max(max_altitude, current_altitude)
-        
-        return max_altitude
+            a+=g
+            b=max(b,a)
+        return b
         
