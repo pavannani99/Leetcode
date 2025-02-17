@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
