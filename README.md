@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pavannani99/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavannani99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavannani99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavannani99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pavannani99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
+| [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
