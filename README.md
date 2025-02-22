@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavannani99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pavannani99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pavannani99/Leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavannani99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pavannani99/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -155,6 +157,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pavannani99/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavannani99/Leetcode/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
