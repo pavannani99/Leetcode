@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pavannani99/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavannani99/Leetcode/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pavannani99/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavannani99/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
