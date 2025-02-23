@@ -9,4 +9,6 @@ class Solution:
             j += 1  # Always move in 't'
 
         # If i reached the end of 's', it's a subsequence
-        return i == len(s)
+        if i==len(s):
+            return True
+        return False
