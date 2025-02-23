@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/pavannani99/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pavannani99/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/pavannani99/Leetcode/tree/master/0414-third-maximum-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/pavannani99/Leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/pavannani99/Leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pavannani99/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pavannani99/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
