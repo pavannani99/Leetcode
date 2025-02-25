@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/pavannani99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavannani99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavannani99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pavannani99/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pavannani99/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pavannani99/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pavannani99/Leetcode/tree/master/0274-h-index) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
