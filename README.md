@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/pavannani99/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pavannani99/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pavannani99/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pavannani99/Leetcode/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pavannani99/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pavannani99/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Recursion
 |  |
 | ------- |
