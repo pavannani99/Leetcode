@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/pavannani99/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/pavannani99/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavannani99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavannani99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pavannani99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavannani99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/pavannani99/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/pavannani99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
