@@ -2,18 +2,37 @@ from typing import List
 
 class Solution:
     def deleteGreatestValue(self, grid: List[List[int]]) -> int:
-        set = []  # To store the maximum values deleted in each round
-        hello = 0  # Final sum
+        # set = []  
+        # hello = 0  
         
-        while any(grid):  # While there are elements left in the grid
-            hey = 0
-            for i in range(len(grid)):
-                if grid[i]:  # If the row is not empty
-                    max_val = max(grid[i])  # Find the max in the row
-                    grid[i].remove(max_val)  # Remove the max value from the row
-                    hey = max(hey, max_val)  # Track the highest value in this round
+        # while any(grid):  
+        #     hey = 0
+        #     for i in range(len(grid)):
+        #         if grid[i]:  
+        #             max_val = max(grid[i])  
+        #             grid[i].remove(max_val)
+        #             hey = max(hey, max_val)  
             
-            set.append(hey)  # Store the highest value deleted in this round
-            hello += hey  # Add to the final sum
+        #     set.append(hey) 
+        #     hello += hey 
         
-        return hello
+        # return hello
+         from typing import List
+
+class Solution:
+    def deleteGreatestValue(self, grid: List[List[int]]) -> int:
+        # Sort each row in ascending order (to access the largest values easily)
+        for row in grid:
+            row.sort()
+
+        total_sum = 0
+        # Perform the operation n times (number of columns)
+        for _ in range(len(grid[0])):
+            max_in_round = 0
+            for row in grid:
+                # Take the last element (which is the largest since sorted)
+                max_in_round = max(max_in_round, row.pop())
+            total_sum += max_in_round
+        
+        return total_sum
+
