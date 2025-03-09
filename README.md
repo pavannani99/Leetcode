@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pavannani99/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pavannani99/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/pavannani99/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/pavannani99/Leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
