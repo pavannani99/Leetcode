@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/pavannani99/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/pavannani99/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pavannani99/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pavannani99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavannani99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pavannani99/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
 | ------- |
