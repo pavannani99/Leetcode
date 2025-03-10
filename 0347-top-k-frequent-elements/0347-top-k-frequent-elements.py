@@ -4,12 +4,12 @@ from typing import List
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = Counter(nums)  # Count frequencies of each element
+        count = Counter(nums)  
         heap = []
         
         for num, freq in count.items():
-            heapq.heappush(heap, (freq, num))  # Push (freq, num) into heap
+            heapq.heappush(heap, (freq, num))  
             if len(heap) > k:
-                heapq.heappop(heap)  # Remove the smallest frequency
+                heapq.heappop(heap) 
         
-        return [num for freq, num in heap]  # Extract elements from the heap
+        return [num for freq, num in heap] 
