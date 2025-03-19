@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pavannani99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pavannani99/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pavannani99/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pavannani99/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pavannani99/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pavannani99/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pavannani99/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/pavannani99/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/pavannani99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/pavannani99/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
