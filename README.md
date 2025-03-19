@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pavannani99/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pavannani99/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/pavannani99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/pavannani99/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/pavannani99/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pavannani99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavannani99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavannani99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/pavannani99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/pavannani99/Leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavannani99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pavannani99/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pavannani99/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/pavannani99/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pavannani99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pavannani99/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/pavannani99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavannani99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/pavannani99/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/pavannani99/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/pavannani99/Leetcode/tree/master/0125-valid-palindrome) |
