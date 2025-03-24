@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pavannani99/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pavannani99/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/pavannani99/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/pavannani99/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pavannani99/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/pavannani99/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pavannani99/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavannani99/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavannani99/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pavannani99/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Math
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pavannani99/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pavannani99/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/pavannani99/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/pavannani99/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pavannani99/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pavannani99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pavannani99/Leetcode/tree/master/0189-rotate-array) |
