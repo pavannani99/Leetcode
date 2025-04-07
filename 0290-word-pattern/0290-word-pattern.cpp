@@ -2,12 +2,18 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         vector<string> words;
-istringstream iss(s);
-string word;
-while (iss >> word) {
-    words.push_back(word);
-}
+        string word = "";
 
+        
+        s += ' ';
+        for (char c : s) {
+            if (c == ' ') {
+                words.push_back(word);
+                word = "";
+            } else {
+                word += c;
+            }
+        }
 
         if (pattern.length() != words.size()) return false;
 
