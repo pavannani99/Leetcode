@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pavannani99/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pavannani99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pavannani99/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/pavannani99/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pavannani99/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pavannani99/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavannani99/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pavannani99/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/pavannani99/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/pavannani99/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/pavannani99/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pavannani99/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pavannani99/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
