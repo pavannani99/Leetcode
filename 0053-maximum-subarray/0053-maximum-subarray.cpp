@@ -1,16 +1,12 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int currentSum = nums[0];
-        int maxSum = nums[0];
-        
-        for (int i = 1; i < nums.size(); i++) {
-            
-            currentSum = max(nums[i], currentSum + nums[i]);
-           
-            maxSum = max(maxSum, currentSum);
-        }
-        
-        return maxSum;
+        int curr = 0;
+int maxa = INT_MIN;  // need to declare the type
+for(int num : nums) {  // need to specify type in C++
+    curr = max(num, curr + num);
+    maxa = max(maxa, curr);
+}
+return maxa;
     }
 };
