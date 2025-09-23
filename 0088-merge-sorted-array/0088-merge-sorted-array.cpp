@@ -1,18 +1,26 @@
-#include <vector>
-#include <algorithm> // For std::sort
-
 class Solution {
 public:
-    void merge(std::vector<int>& nums1, int m, std::vector<int>& nums2, int n) {
-        int index = m; // Starting index to append nums2 into nums1
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i=m-1;
+        int j=n-1;
+        int k=m+n-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]>nums2[j]){
+                nums1[k]=nums1[i];
+                i--;
 
-        // Append nums2 elements into nums1 from index 'm'
-        for (int j = 0; j < n; j++) {
-            nums1[index] = nums2[j];
-            index++;
+            }else {
+                nums1[k]=nums2[j];
+                j--;
+            }
+            k--;
         }
-
-        // Sort nums1 after merging
-        std::sort(nums1.begin(), nums1.end());
+        while(j>=0){
+            nums1[k]=nums2[j];
+            j--;
+            k--;
+        }
+        
+       
     }
 };
