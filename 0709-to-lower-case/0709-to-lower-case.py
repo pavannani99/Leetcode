@@ -5,5 +5,4 @@ class Solution(object):
         :rtype: str
         """
         s = s.strip().lower()
-        return s   # remove spaces + lowercase
-
+        return s   
