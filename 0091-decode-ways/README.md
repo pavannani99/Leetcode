@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-ways">91. Decode Ways</a></h2><h3>Medium</h3><hr><p>You have intercepted a secret message encoded as a string of numbers. The message is <strong>decoded</strong> via the following mapping:</p>
+<h2><a href="https://leetcode.com/problems/decode-ways/">91. Decode Ways</a></h2><h3>Medium</h3><hr><p>You have intercepted a secret message encoded as a string of numbers. The message is <strong>decoded</strong> via the following mapping:</p>
 
 <p><code>&quot;1&quot; -&gt; &#39;A&#39;<br />
 &quot;2&quot; -&gt; &#39;B&#39;<br />
