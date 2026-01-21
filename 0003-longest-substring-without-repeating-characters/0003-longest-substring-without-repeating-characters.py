@@ -34,7 +34,7 @@ class Solution:
             if s[lf] in hashmap and hashmap[s[lf]]>=base:
                 maxima=max(maxima,lf-base)
                 base=hashmap[s[lf]]+1
-                hashmap[lf]=lf
+                hashmap[s[lf]]=lf
                 
 
 
